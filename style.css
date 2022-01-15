@@ -1,0 +1,203 @@
+body{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgb(53, 52, 52);
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+section{
+    display: flex;
+    margin-left: 10%;
+}
+
+/* This is banner section  */
+
+.influencer{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.header-text{
+    width: 45%;  
+}
+.para{
+    margin-bottom: 10%;
+}
+.header-text h1{
+    font-size: 42px;
+}
+.header-image{
+    margin-left: 7%;
+    margin-right: 0px;
+}
+.btn{
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: tomato;
+    color: white;
+    margin-top: 2%;
+}
+.icon{
+    border-top: solid white;
+    border-bottom: solid white;
+    padding: 20px 15px;
+    margin-left: 0%;
+    margin-top: 5%;
+    animation-delay: -2s;
+}
+.alibaba{
+    margin-right: 15px;
+    margin-left: 18%;
+}
+.amazon{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.daraz{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.ebay{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.rakuten{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.target{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.walmart{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+/* This is popular collection section  */
+
+.tripod{
+    margin-right: 2%;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 7px 7px 40px  rgb(212, 211, 211);
+}
+.mic{
+    margin-right: 2%;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 7px 7px 40px  rgb(212, 211, 211);
+}
+.airpod{
+    border-radius: 10px;
+    padding: 15px;
+    margin-right: 15%;
+    box-shadow: 7px 7px 40px  rgb(170, 169, 169);
+}
+.p-1{
+    margin-right: 15%;
+    margin-bottom: 0;
+}
+.p-2{
+    margin-right: 10%;
+    margin-bottom: 0%;
+}
+.p-3{
+    margin-right: 10%;
+    margin-bottom: 0;
+}
+.dollar{
+   font-size: 23px;
+}
+.drone{
+    margin-right: 2%;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 7px 7px 40px  rgb(212, 211, 211);
+}
+.action{
+    margin-right: 2%; 
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 7px 7px 40px  rgb(212, 211, 211);
+}
+.camera{
+    border-radius: 10px;
+    padding: 15px;
+    margin-right: 15%;
+    box-shadow: 7px 7px 40px  rgb(212, 211, 211);
+}
+.popular-collection-1{
+    margin-right: 15%;
+}
+.popular-collection-2{
+    margin-top: 20px;
+    margin-right: 15%;
+}
+.popular-collection-3{
+    margin-top: 20px;
+    margin-right: 15%;
+}
+.btn-1{
+    margin-left: 82%;
+    text-decoration: none;
+    color: rgb(233, 17, 125);
+    margin-top: 3%;
+}
+
+/* This is about us section  */
+
+
+.abt-us{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.about-us{
+ width: 50%;
+}
+.about-us h1{
+    font-size: 45px;
+}
+.about-us p{
+    margin-bottom: 5%;
+}
+.img-1{
+    width: 40%;
+ }
+.btn-2{
+    text-decoration: none;
+    border-radius: 40px;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+}
+
+/* This is footer section  */
+
+.footer{
+    background-color: rgb(4, 4, 51);
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 10px;
+    margin-top: 5%;
+    padding-bottom: 30px;
+}
+.footer h1{
+    color: white;
+    text-align: center;
+}
+.footer p{
+    color: rgb(49, 153, 214);
+    text-align: center;
+}
+
+/* The End  */
+
+    
